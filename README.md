@@ -7,6 +7,10 @@
 
 [Youtube Video] (https://youtu.be/F2cJSpcBj5I)
 
+![GEOGIF](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/6b341843-519d-4a9b-bcae-d8861153f757)
+
+[GIANT GOLDEN GEOFISH] (https://youtu.be/V5mmxK4O3HE)
+
 I wanted to make configurable flight paths for my autonomous drones that I built off of my previous projects:
 
 https://github.com/19PHOBOSS98/Minecraft-Aim-Assisted-Ship-Controller-ValkyrienSkies2-ComputerCraft
