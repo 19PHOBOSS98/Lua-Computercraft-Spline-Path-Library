@@ -1,9 +1,9 @@
 # Lua-Computercraft-Spline-Path-Library
-![graph1](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/2a912adb-c83e-4fb5-9124-fdf2964db84f)
+![graph1](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/d5dcf811-3827-497e-8d44-bf94ce5b95cc)
 
-![ezgif com-video-to-gif (1)](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/10f6c93b-089e-445d-a78e-7fc073367cdd)
+![ezgif com-video-to-gif (1)](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/f621fed8-ea5e-418b-b1ed-a403075fc67d)
 
-![ezgif com-video-to-gif](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/fe5c4db4-e7d3-41e3-8759-d5a44e30ed5e)
+![ezgif com-video-to-gif](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/62419984-3ef2-43b0-b934-6a5f4cf93f27)
 
 [Youtube Video] (https://youtu.be/F2cJSpcBj5I)
 
@@ -33,7 +33,8 @@ If everything goes well this should generate a Custom_Data_Set file
 ![image](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/84e46454-aeba-481a-a6fe-145ab2e0f85e)
 
 Visit [miabellaai.net] (https://miabellaai.net)
-![image](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/88442bfb-2611-401a-80c5-8c73a1753443)
+![image](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/0202a5df-1639-4e97-9d98-59f5fc86207c)
+
 
 Scroll down to Custom Data Set and copy-paste the contents of the generated file to the text field
 ![image](https://github.com/19PHOBOSS98/Lua-Computercraft-Spline-Path-Library/assets/37253663/05f38ce2-befa-4a5c-a997-3cfa7530f2e8)
