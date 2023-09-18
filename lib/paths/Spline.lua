@@ -64,7 +64,7 @@ https://youtu.be/DzjtU4WLYNs
 Last Updated: 25/09/2017
 
 
-Converted to Lua by: 19PHOBOSS98
+Rewritten in Lua by: 19PHOBOSS98
 August 11, 2023
 
 ]]--
